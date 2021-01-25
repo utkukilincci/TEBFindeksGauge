@@ -1,0 +1,42 @@
+[
+  {
+    "key": "kredilerMenu",
+    "value": "//cufon[@alt='Krediler']",
+    "type": "xpath"
+  },
+  {
+    "key": "ihtiyacKredileri",
+    "value": "//a[@href='/ihtiyac-kredileri/']",
+    "type": "xpath"
+  },
+  {
+    "key": "ihtiyacKredisi",
+    "value": "//a[@href='/sizin-icin/ihtiyac-kredisi/']",
+    "type": "xpath"
+  },
+  {
+    "key": "findeksRiskRaporu",
+    "value": "Findeks Risk Raporu",
+    "type": "linkText"
+  },
+  {
+    "key": "findeksNotu",
+    "value": "Findeks notunuzu öğrenmek için tıklayınız.",
+    "type": "linkText"
+  },
+  {
+    "key": "findeksBireyselPaketler",
+    "value": "https://www.findeks.com/paketler#bireysel",
+    "type": "linkText"
+  },
+  {
+    "key": "premiumSatinAl",
+    "value": "//a[@data-striim-id='premium']",
+    "type": "xpath"
+  },
+  {
+    "key": "premiumSatinAlBaslik",
+    "value": "purchasePopupHeader",
+    "type": "id"
+  }
+]
